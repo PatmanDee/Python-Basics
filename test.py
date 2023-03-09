@@ -15,3 +15,17 @@ result = (savings * growth_multiplier **7)
 
 # Print out result
 print(result)
+
+# Create a variable desc
+desc = "compound interest"
+type(desc)
+# Create a variable profitable
+profitable = True
+type(profitable)
+bool
+# Create a variable desc
+desc = "compound interest"
+type(desc)
+# Create a variable profitable
+profitable = True
+type(profitable)
